@@ -1,15 +1,18 @@
 cheat
   name: HP?
   code: 7e0470=99
+
+cheat
+  name: money(hex 4byte)
+  code: 7e00b0=30+7e00b1=33+7e00b2=32+7e00b3=00
   enable
 
 cheat
-  name: money
-  code: 7e00b0=30 + 7e00b1=33 + 7e00b2=14 + 7e00b3=00
+  name: mp1+hp(hex 2byte)
+  code: 7e0470=99+7e0471=01+7e0472=50+7e0473=05
   enable
 
 cheat
-  name: mp1
-  code: 7e0470=99 + 7e0471=01 + 7e0472=50 + 7e0473=00
-  enable
+  name: realhp(hex 2byte)
+  code: 7e0470=90+7e0471=01
 
