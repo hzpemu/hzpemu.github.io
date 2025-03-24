@@ -1,0 +1,20 @@
+cheat
+  name: armor
+  code: 7e00ad=0e
+  enable
+
+cheat
+  name: hp
+  code: 7e0952=17
+  enable
+
+cheat
+  name: armor2
+  code: 7e00b1=96
+  enable
+
+cheat
+  name: shotarmor
+  code: 7e00af=63
+  enable
+
