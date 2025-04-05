@@ -1,0 +1,10 @@
+cheat
+  name: HP
+  code: 7e18af=00+7e18b0=05
+  enable
+
+cheat
+  name: MP
+  code: 7e008f=00+7e0090=03
+  enable
+
