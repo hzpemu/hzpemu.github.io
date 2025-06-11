@@ -1,0 +1,5 @@
+cheat
+  name: HP
+  code: 7e1027=64+7e1028=00
+  enable
+
