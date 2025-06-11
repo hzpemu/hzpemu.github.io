@@ -1,0 +1,10 @@
+cheat
+  name: HP-FULL-1P
+  code: 7e0453=00+7e0454=60
+  enable
+
+cheat
+  name: 1P-mp lock ok
+  code: 7e0431=01+7e0432=0c
+  enable
+
