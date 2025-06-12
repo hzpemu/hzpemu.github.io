@@ -1,0 +1,10 @@
+cheat
+  name: 1P-HP?
+  code: 7e0e5e=10+7e0e5f=00
+  enable
+
+cheat
+  name: hp-1p t2
+  code: 7e108e=08+7e108f=00
+  enable
+
