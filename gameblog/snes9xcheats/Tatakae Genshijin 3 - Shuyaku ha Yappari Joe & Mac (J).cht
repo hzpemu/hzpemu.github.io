@@ -1,0 +1,10 @@
+cheat
+  name: 1p-hp
+  code: 7e0231=00+7e0232=05
+  enable
+
+cheat
+  name: 1p-life
+  code: 7e0233=05+7e0234=00
+  enable
+
